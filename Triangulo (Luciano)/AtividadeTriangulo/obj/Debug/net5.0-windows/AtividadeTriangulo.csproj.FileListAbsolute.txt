@@ -1,0 +1,36 @@
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.exe
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.deps.json
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.runtimeconfig.json
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.runtimeconfig.dev.json
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.dll
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\ref\AtividadeTriangulo.dll
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.pdb
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.csproj.AssemblyReference.cache
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.FrmPrincipal.resources
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.csproj.GenerateResource.cache
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.AssemblyInfoInputs.cache
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.AssemblyInfo.cs
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.csproj.CoreCompileInputs.cache
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.dll
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\ref\AtividadeTriangulo.dll
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.pdb
+D:\Códigos C#\UNIP\Aulas\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.genruntimeconfig.cache
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.exe
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.deps.json
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.runtimeconfig.json
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.runtimeconfig.dev.json
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.dll
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\ref\AtividadeTriangulo.dll
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\bin\Debug\net5.0-windows\AtividadeTriangulo.pdb
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.csproj.AssemblyReference.cache
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.csproj.GenerateResource.cache
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.AssemblyInfoInputs.cache
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.AssemblyInfo.cs
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.dll
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\ref\AtividadeTriangulo.dll
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.pdb
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.genruntimeconfig.cache
+C:\Users\55159\Desktop\TrabalhoTriangulo-main\AtividadeTriangulo\obj\Debug\net5.0-windows\AtividadeTriangulo.CodForms.resources
